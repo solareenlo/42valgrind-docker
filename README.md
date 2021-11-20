@@ -1,4 +1,5 @@
 # [42valgrind-docker](https://github.com/solareenlo/42valgrind-docker)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/solareenlo/42valgrind/latest) ![Docker Pulls](https://img.shields.io/docker/pulls/solareenlo/42valgrind)
 
 ## Usage
 ```shell
